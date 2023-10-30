@@ -1,5 +1,6 @@
 import java.util.*;
 //strategy pattern
+// for CSC 3250
 class Course{
     private String _cnum;
     private int _credits;
